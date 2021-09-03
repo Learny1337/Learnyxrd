@@ -1,4 +1,4 @@
-# Hi there , I'm Brita <img src="https://komarev.com/ghpvc/?username=Learnyxrd&color=00ff54"/>
+# Hi there , I'm Learny <img src="https://komarev.com/ghpvc/?username=Learnyxrd&color=00ff54"/>
 <h3>Social Media</h3>
 <p align="left">
   <a href="https://discord.com/users/429655715477716993" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
