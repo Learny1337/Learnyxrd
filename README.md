@@ -10,8 +10,6 @@ https://lanyard-profile-readme.vercel.app/api/429655715477716993
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/429655715477716993)](https://discord.com/users/429655715477716993)
 
-Discord nickim değişiklik gösterebilir. `discord.gg/serendia` sunucusuna gelip beni bulabilirsiniz. :))
-
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=Learnyxrd&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
